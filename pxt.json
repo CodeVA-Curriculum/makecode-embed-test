@@ -7,7 +7,8 @@
         "microphone": "*"
     },
     "files": [
-        "README.md"
+        "README.md",
+        "dir/test.md"
     ],
     "targetVersions": {
         "target": "3.1.51",
