@@ -8,6 +8,7 @@
     },
     "files": [
         "README.md",
+        "test.md",
         "dir/test.md"
     ],
     "targetVersions": {
